@@ -32,5 +32,4 @@ Este é um aplicativo simples de terminal feito em **Java com Programação Orie
 
 ---
 
-## 📁 Estrutura de Pastas
 
